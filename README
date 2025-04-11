@@ -1,7 +1,7 @@
 # About and replication/change details
 
 ## About: 
-•	The website is written in Typescript (Javascript) and used Next.js to build it (Next.js allows for minimal setup, is quick and state-of-the-art. Alternatives might offer similar features, but often require additional configuration or third-party packages.) The website is static.
+*	The website is written in Typescript (Javascript) and used Next.js to build it (Next.js allows for minimal setup, is quick and state-of-the-art. Alternatives might offer similar features, but often require additional configuration or third-party packages.) The website is static.
  
 ## Replication/change: 
 1.	Clone the following repo: https://github.com/laurencleek/POAL_website 
