@@ -1,0 +1,12 @@
+# About and replication/change details
+
+## About: 
+•	The website is written in Typescript (Javascript) and used Next.js to build it (Next.js allows for minimal setup, is quick and state-of-the-art. Alternatives might offer similar features, but often require additional configuration or third-party packages.) The website is static.
+ 
+## Replication/change: 
+1.	Clone the following repo: https://github.com/laurencleek/POAL_website 
+2.	Set working directory in terminal/cmd. 
+3.	Remove the .next and out folder folder (either via cmd: `rm -rf .next out’) or manually. 
+4.	Run `npm run build’  (make sure that the npm is installed)
+5.	Copy the ‘out’ folder to the POAL github repo which is connected with pages. (I configured that the out folder compiles the necessary output to run the static website and that it automatically is all placed in the folder).
+6.	Push the new changes up to the github repo of the website. The website should then update😊
